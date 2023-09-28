@@ -1,4 +1,4 @@
--👋 Hi, I'm Vasu Khanna
+-👋 Hi, I'm Vasu Khanna from IIT Roorkee.
 - 🌟 I'm a Full Stack Web Developer.
 - 😎 I'm also an ML enthusiast with a decent experience of building DL models.
 - 🌱 Currently, I'm learning Blockchain Development.
