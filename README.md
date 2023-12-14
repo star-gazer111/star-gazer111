@@ -5,6 +5,7 @@
 - 🔮 Prev Data Analyst at Covalent Networks(Web3 Protocol).
 - 💎 Built [ShieldFi](https://github.com/VasuK111/ShieldFi) at ETHGlobal's SuperHack'23.
 - 🏆 Built [ProFi](https://github.com/Mihir1101/ProFi) at ETHOnline'23.
+- 🥇 Built [FLockChain](https://github.com/BlocSoc-iitr/FLockChain) at EthIndia'23. Was finalist & also won Metamask & Alliance Tracks.
 - 📫 How to reach me:
         Email : vasu_k@ee.iitr.ac.in
     
