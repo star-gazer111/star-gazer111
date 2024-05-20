@@ -1,6 +1,6 @@
 -👋 Hi, I'm Vasu Khanna from IIT Roorkee.
 - 🌟 I'm a Full Stack Web Developer.
-- 😎 I'm also an ML enthusiast with a decent experience of building DL models.
+- 😎 I'm also an ML enthusiast with an experience in building DL models.
 - 🌱 Currently, I'm learning Blockchain Development.
 - 🔮 Prev Data Analyst at Covalent Networks(Web3 Protocol).
 - 💎 Built [ShieldFi](https://github.com/VasuK111/ShieldFi) at ETHGlobal's SuperHack'23.
