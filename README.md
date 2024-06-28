@@ -1,7 +1,7 @@
 -👋 Hi, I'm Vasu Khanna from IIT Roorkee.
 
-- 🌱 Currently, I am working as a Software Engineer at [Lucidly](https://github.com/lucidlyfi)
-- 🌟 I am a ZK piilled rustacean who is also very passionate about Cryptography, Core Ethereum protocol & Distributed Systems.
+- 🌱 Currently, I am working as a Software Engineer at [Lucidly](https://github.com/lucidlyfi).
+- 🌟 I am a ZK piilled rustacean who is also very passionate about Cryptography, Core Ethereum protocol & Distributed Systems in general.
 - 😎 I'm also an ML enthusiast with an experience in building DL models.
 - 🥇 Built [FLockChain](https://github.com/BlocSoc-iitr/FLockChain) at EthIndia'23. Was finalist & also won Metamask & Alliance Tracks.
 - 📫 How to reach me:
