@@ -1,5 +1,4 @@
 -👋 Hi, I'm Vasu Khanna from IIT Roorkee.
-
 - 🌱 Currently, I am working as a Software Engineer at [Lucidly](https://github.com/lucidlyfi).
 - 🌟 I am a ZK piilled rustacean who is also very passionate about DeFi, Cryptography, Core Ethereum protocol & Distributed Systems in general.
 - 😎 I'm also an AI enthusiast with an experience in building Deep learning models & LLMs.
