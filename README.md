@@ -1,5 +1,6 @@
 👋 Hi, I'm Vasu Khanna from IIT Roorkee.
-- 🌱 Currently, I am working as a Software Engineer at [Lucidly](https://github.com/lucidlyfi).
+- 🌱 Currently, I am working as a Software Engineer at [OTEX](https://otex.tools/).
+- ✨ Currently, I am leading & working on [Selene](https://github.com/BlocSoc-iitr/selene/tree/dev) an open source, portable & secure light client for ethereum in Golang.
 - 🌟 I am a ZK piilled rustacean who is also very passionate about DeFi, Cryptography, Core Ethereum protocol & Distributed Systems in general.
 - 😎 I'm also an AI enthusiast with an experience in building Deep learning models & LLMs.
 - 🥇 Built [FLockChain](https://github.com/BlocSoc-iitr/FLockChain) at EthIndia'23. Was finalist & also won Metamask & Alliance Tracks.
