@@ -4,7 +4,7 @@
 - 🌟 I am a ZK piilled rustacean who is also very passionate about DeFi, Cryptography, Core Ethereum protocol & Distributed Systems in general.
 - 😎 I'm also an AI enthusiast with an experience in building Deep learning models & LLMs.
 - 🥇 Built [FLockChain](https://github.com/BlocSoc-iitr/FLockChain) at EthIndia'23. Was finalist & also won Metamask & Alliance Tracks.
-- ✍️ For my technical writings, please click [here](https://hackmd.io/@stargazer111)
+- ✍️ For my technical writings, please click [here.](https://hackmd.io/@stargazer111)
 - 📫 How to reach me:
         Email : vasukhanna961@gmail.com
 
